@@ -48,4 +48,7 @@ Quote	Author	Tags
 Python Developer | Web Scraping & Automation | Open to Freelance Work
 🌐 GitHub Profile
 
-Feel free to fork, use, or contact me for freelance projects
+Feel free to fork, use, or contact me for freelance projects!
+
+💬 Need a custom scraper?
+Reach out for custom scraping solutions, automation tools, or Python scripting help!
