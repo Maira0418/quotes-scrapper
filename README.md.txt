@@ -30,3 +30,22 @@ First, install the required Python libraries:
 
 ```bash
 pip install -r requirements.txt
+
+▶️ How to Run
+bash
+Copy
+Edit
+python quotes_scraper.py
+After running, the file quotes.csv will be created in your folder with all the scraped data.
+
+📁 Sample Output
+Quote	Author	Tags
+"Be yourself..."	Oscar Wilde	truth, self, life
+"So many books, so little time"	Frank Zappa	books, reading
+
+📌 Author
+👩‍💻 Maira Qureshi
+Python Developer | Web Scraping & Automation | Open to Freelance Work
+🌐 GitHub Profile
+
+Feel free to fork, use, or contact me for freelance projects
